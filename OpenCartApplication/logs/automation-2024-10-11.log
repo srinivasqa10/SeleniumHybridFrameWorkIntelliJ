@@ -1,0 +1,77 @@
+12:43:25.353 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+13:26:43.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+13:27:56.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+13:40:20.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+17:22:31.879 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+17:27:15.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+17:51:19.378 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:04:56.213 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:04:58.070 [main] INFO  testCases.TC_002_LogInTest - ***** Starting TC_002_LogInTest *****
+18:04:58.122 [main] INFO  testCases.TC_002_LogInTest - Clicked on My Account Link
+18:04:58.285 [main] INFO  testCases.TC_002_LogInTest - Clicked on Login
+18:04:58.408 [main] INFO  testCases.TC_002_LogInTest - Entered the email
+18:04:58.457 [main] INFO  testCases.TC_002_LogInTest - Entered the Password
+18:04:58.948 [main] INFO  testCases.TC_002_LogInTest - ***** Finished TC_002_LogInTest *****
+18:05:56.225 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:05:57.963 [main] INFO  testCases.TC_002_LogInTest - ***** Starting TC_002_LogInTest *****
+18:05:58.015 [main] INFO  testCases.TC_002_LogInTest - Clicked on My Account Link
+18:05:58.186 [main] INFO  testCases.TC_002_LogInTest - Clicked on Login
+18:06:03.249 [main] INFO  testCases.TC_002_LogInTest - Entered the email
+18:06:03.306 [main] INFO  testCases.TC_002_LogInTest - Entered the Password
+18:06:08.848 [main] INFO  testCases.TC_002_LogInTest - ***** Finished TC_002_LogInTest *****
+18:06:29.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+18:06:36.998 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:06:38.971 [main] INFO  testCases.TC_002_LogInTest - ***** Starting TC_002_LogInTest *****
+18:06:39.022 [main] INFO  testCases.TC_002_LogInTest - Clicked on My Account Link
+18:06:44.307 [main] INFO  testCases.TC_002_LogInTest - Clicked on Login
+18:06:49.370 [main] INFO  testCases.TC_002_LogInTest - Entered the email
+18:06:49.411 [main] INFO  testCases.TC_002_LogInTest - Entered the Password
+18:06:54.977 [main] INFO  testCases.TC_002_LogInTest - ***** Finished TC_002_LogInTest *****
+18:50:57.545 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:50:59.504 [main] INFO  testCases.TC_002_LogInTest - ***** Starting TC_002_LogInTest *****
+18:50:59.557 [main] INFO  testCases.TC_002_LogInTest - Clicked on My Account Link
+18:51:04.891 [main] INFO  testCases.TC_002_LogInTest - Clicked on Login
+18:51:09.961 [main] INFO  testCases.TC_002_LogInTest - Entered the email
+18:51:10.001 [main] INFO  testCases.TC_002_LogInTest - Entered the Password
+18:51:15.590 [main] INFO  testCases.TC_002_LogInTest - ***** Finished TC_002_LogInTest *****
+18:54:28.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:54:31.344 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:54:41.741 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:54:42.842 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:54:43.793 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:54:54.091 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+18:54:54.091 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:54:55.159 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+18:56:34.489 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+18:56:36.980 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:56:38.014 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+18:56:38.016 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:56:38.994 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****

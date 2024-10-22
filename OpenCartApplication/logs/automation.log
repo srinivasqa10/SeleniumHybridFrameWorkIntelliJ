@@ -1,0 +1,34 @@
+18:56:39.954 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:56:50.546 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+18:56:50.547 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+18:56:51.562 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+19:24:50.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\grouping.xml
+
+19:25:22.944 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\grouping.xml
+
+19:25:25.151 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_Account RegistrationTest *****
+19:25:25.204 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Account Link
+19:25:25.451 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on My Register Link
+19:25:25.452 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+19:25:31.197 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating Expected Result
+19:25:31.248 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_Account RegistrationTest *****
+19:25:32.922 [main] INFO  testCases.TC_002_LogInTest - ***** Starting TC_002_LogInTest *****
+19:25:32.961 [main] INFO  testCases.TC_002_LogInTest - Clicked on My Account Link
+19:25:38.255 [main] INFO  testCases.TC_002_LogInTest - Clicked on Login
+19:25:43.319 [main] INFO  testCases.TC_002_LogInTest - Entered the email
+19:25:43.362 [main] INFO  testCases.TC_002_LogInTest - Entered the Password
+19:25:48.908 [main] INFO  testCases.TC_002_LogInTest - ***** Finished TC_002_LogInTest *****
+12:59:53.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
+12:59:59.867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\grouping.xml
+
+13:00:44.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\grouping.xml
+
+15:46:27.657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Selenium SDET QA Hybrid FrameWork\OpenCartApplication\master.xml
+
